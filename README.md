@@ -12,7 +12,7 @@ Technologies Used
 •	Weather API (For fetching real-time weather data)
 Installation
 1. Clone the Repository
-git clone https://github.com/Mikstephen/flask-weather-app.git
+git clone https://github.com/Mikstephen/Flaskweather-app.git
 cd flask-weather-app
 2. Install Dependencies
 pip install -r requirements.txt
